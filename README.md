@@ -1,4 +1,5 @@
 👋 About Me
+
 Hi, I’m Sopyaan, a passionate problem solver with a keen interest in leveraging machine learning and artificial intelligence to tackle real-world challenges. I specialize in analyzing data and translating insights into actionable strategies to drive business outcomes.
 
 ### 🔍 Interests  
