@@ -11,7 +11,8 @@ I am currently expanding my expertise in **machine learning techniques** with to
 I am excited to collaborate on initiatives that:  
 - **Optimize operations** and improve decision-making through **business analysis**.  
 - Develop **AI-driven solutions** that deliver tangible social and economic value.  
-- Foster **strategic partnerships** that integrate technology and business growth effectively.  
+- Foster **strategic partnerships** that integrate technology and business growth effectively.
+  
 📬 Get in Touch
 Email: sopyanwae60@gmail.com
 LinkedIn: www.linkedin.com/in/sopyaannn
