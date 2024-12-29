@@ -15,8 +15,10 @@ I am excited to collaborate on initiatives that:
 - Foster **strategic partnerships** that integrate technology and business growth effectively.
   
 📬 Get in Touch
-Email: sopyanwae60@gmail.com
-LinkedIn: www.linkedin.com/in/sopyaannn
+
+- Email: sopyanwae60@gmail.com
+- LinkedIn: www.linkedin.com/in/sopyaannn
+  
 Let’s connect and explore opportunities to make a meaningful impact together!
 
 
