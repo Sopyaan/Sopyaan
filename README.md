@@ -16,7 +16,7 @@ I am excited to collaborate on initiatives that:
   
 **Get in Touch**
 
-[Email](https://images.app.goo.gl/zXbNJr1ECggEtyKq8) sopyanwae60@gmail.com
+Email : sopyanwae60@gmail.com
 
 <a href="https://www.linkedin.com/in/sopyaannn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
