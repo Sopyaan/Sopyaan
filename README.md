@@ -17,7 +17,7 @@ I am excited to collaborate on initiatives that:
 **Get in Touch**
 
 - Email: sopyanwae60@gmail.com
-- LinkedIn: www.linkedin.com/in/sopyaannn
+- [LinkedIn](http://www.linkedin.com/in/sopyaannn)
   
 Let’s connect and explore opportunities to make a meaningful impact together!
 
