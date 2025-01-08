@@ -1,21 +1,12 @@
 # About Me
 
-Hi, I’m Sopyaan, a passionate problem solver with a keen interest in leveraging machine learning and artificial intelligence to tackle real-world challenges. I specialize in analyzing data and translating insights into actionable strategies to drive business outcomes.
-
-### Interests  
-I am passionate about uncovering innovative solutions through **data analysis** and **AI applications**. My focus includes leveraging **machine learning** in areas such as **computer vision**, **natural language processing**, and **AI for social impact**. Additionally, I aim to enhance **business analysy** and **strategic analysis** to drive efficiency and innovation.  
-
-### Current Focus  
-I am currently expanding my expertise in **machine learning techniques** with tools like **TensorFlow** and **PyTorch**. I am also honing my skills in **data visualization**, **predictive modeling**, and the **deployment of ML models** for real-world business applications. Furthermore, I am mastering **industry-standard methodologies** to bridge the gap between technical solutions and business objectives.  
-
-### Collaboration Goals  
-I am excited to collaborate on initiatives that:  
-- **Optimize operations** and improve decision-making through **business analysis**.  
-- Develop **AI-driven solutions** that deliver tangible social and economic value.  
-- Foster **strategic partnerships** that integrate technology and business growth effectively.
+As a Business Analyst, the core responsibilities include identifying business needs, analyzing data, and providing actionable insights to enhance profitability and operational efficiency. With a strong academic foundation in Business Administration and practical experience in data analysis, I have honed these skills through various projects and leadership roles. My achievements, such as leading data-driven decision-making processes as Chief Research Officer at the Entrepreneurship and Innovation Laboratory and completing the Machine Learning cohort at Bangkit Academy, have equipped me to analyze complex business problems and deliver impactful solutions. I am passionate about leveraging data analytics and technology to drive business growth and profitability.
   
 **Get in Touch**
 
+[Portfolio](https://drive.google.com/file/d/1S3eqh9BAr_4wSvupBH2KL5ZhXyU02liT/view?usp=sharing)
+
+# 🎯 Objectives
 Email : sopyanwae60@gmail.com
 
 <a href="https://www.linkedin.com/in/sopyaannn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
