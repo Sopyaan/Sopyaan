@@ -8,8 +8,7 @@ As a Business Analyst, the core responsibilities include identifying business ne
 
 [Portfolio](https://drive.google.com/file/d/1S3eqh9BAr_4wSvupBH2KL5ZhXyU02liT/view?usp=sharing)
 
-Email : sopyanwae60@gmail.com
-
+<a href="https://drive.google.com/file/d/1S3eqh9BAr_4wSvupBH2KL5ZhXyU02liT/view?usp=sharing"><img src="https://github.com/Sopyaan/Sopyaan/blob/main/Github.png" /></a>
 <a href="https://www.linkedin.com/in/sopyaannn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
 Let’s connect and explore opportunities to make a meaningful impact together!
