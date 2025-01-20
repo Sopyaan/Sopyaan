@@ -1,5 +1,7 @@
 # About Me
-
+<p align="center">
+  <img src="https://github.com/Sopyaan/Adidas-Sales-Analysis/blob/main/images/dashboard.png", width="" height="">
+</p>
 As a Business Analyst, the core responsibilities include identifying business needs, analyzing data, and providing actionable insights to enhance profitability and operational efficiency. With a strong academic foundation in Business Administration and practical experience in data analysis, I have honed these skills through various projects and leadership roles. My achievements, such as leading data-driven decision-making processes as Chief Research Officer at the Entrepreneurship and Innovation Laboratory and completing the Machine Learning cohort at Bangkit Academy, have equipped me to analyze complex business problems and deliver impactful solutions. I am passionate about leveraging data analytics and technology to drive business growth and profitability.
   
 # Get in Touch
