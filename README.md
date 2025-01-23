@@ -12,8 +12,6 @@ As a Business Analyst, the core responsibilities include identifying business ne
   
 Let’s connect and explore opportunities to make a meaningful impact together!
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sopyaan"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sopyaan"/>
-
 <!---
 Sopyaan/Sopyaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
