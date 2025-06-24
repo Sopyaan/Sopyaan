@@ -1,6 +1,6 @@
 ## Hello World! I'm Sopyan
 
-![Sopyaan](img\header.png)
+![Sopyaan](https://github.com/Sopyaan/Sopyaan/blob/main/img/header.png)
   
 #### Skills
 
